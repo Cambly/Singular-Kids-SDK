@@ -7,7 +7,7 @@ let package = Package(
     name: "Singular-Kids-SDK",
     products: [
         .library(
-            name: "Singular",
+            name: "SingularKids",
             targets: ["Singular"]),
     ],
     dependencies: [
