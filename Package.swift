@@ -13,6 +13,6 @@ let package = Package(
     dependencies: [
     ],
     targets: [.binaryTarget(
-                name: "Singular",
+                name: "SingularKids",
                 path: "Singular.xcframework")]
 )
